@@ -1,0 +1,8 @@
+C:\Users\HOME\Desktop\linkscale\src\main\java\com\example\linkscale\controller\UrlController.java
+C:\Users\HOME\Desktop\linkscale\src\main\java\com\example\linkscale\dto\CreateUrlRequest.java
+C:\Users\HOME\Desktop\linkscale\src\main\java\com\example\linkscale\dto\UrlResponse.java
+C:\Users\HOME\Desktop\linkscale\src\main\java\com\example\linkscale\entity\ShortUrl.java
+C:\Users\HOME\Desktop\linkscale\src\main\java\com\example\linkscale\exception\GlobalExceptionHandler.java
+C:\Users\HOME\Desktop\linkscale\src\main\java\com\example\linkscale\LinkScaleApplication.java
+C:\Users\HOME\Desktop\linkscale\src\main\java\com\example\linkscale\repository\ShortUrlRepository.java
+C:\Users\HOME\Desktop\linkscale\src\main\java\com\example\linkscale\service\UrlService.java
